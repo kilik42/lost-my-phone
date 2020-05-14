@@ -37,6 +37,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		10632974246CDF520093DE1B /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		10632975246CDF5F0093DE1B /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				10EB3D4B246947B800873052 /* ViewController.swift */,
+			);
+			path = controllers;
+			sourceTree = "<group>";
+		};
+		10632976246CDF670093DE1B /* views */ = {
+			isa = PBXGroup;
+			children = (
+				10EB3D4D246947B800873052 /* Main.storyboard */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
 		10EB3D3B246947B800873052 = {
 			isa = PBXGroup;
 			children = (
@@ -56,10 +79,11 @@
 		10EB3D46246947B800873052 /* lostMyPhone */ = {
 			isa = PBXGroup;
 			children = (
+				10632976246CDF670093DE1B /* views */,
+				10632975246CDF5F0093DE1B /* controllers */,
+				10632974246CDF520093DE1B /* models */,
 				10EB3D47246947B800873052 /* AppDelegate.swift */,
 				10EB3D49246947B800873052 /* SceneDelegate.swift */,
-				10EB3D4B246947B800873052 /* ViewController.swift */,
-				10EB3D4D246947B800873052 /* Main.storyboard */,
 				10EB3D50246947B900873052 /* Assets.xcassets */,
 				10EB3D52246947B900873052 /* LaunchScreen.storyboard */,
 				10EB3D55246947B900873052 /* Info.plist */,

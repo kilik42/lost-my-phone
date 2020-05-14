@@ -5,6 +5,381 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>09B83A1D-37CD-49CF-89D3-EECC5524E85C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09B83A1D-37CD-49CF-89D3-EECC5524E85C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611115018.25121999</real>
+			<key>timeStoppedRecording</key>
+			<real>611115018.28022301</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>09B83A1D-37CD-49CF-89D3-EECC5524E85C</string>
+		</dict>
+		<key>19FCE32D-FA94-45A7-BC3F-AA4954161529</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19FCE32D-FA94-45A7-BC3F-AA4954161529.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113976.606318</real>
+			<key>timeStoppedRecording</key>
+			<real>611113977.01560795</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>19FCE32D-FA94-45A7-BC3F-AA4954161529</string>
+		</dict>
+		<key>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114334.78588796</real>
+			<key>timeStoppedRecording</key>
+			<real>611114335.42339599</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2</string>
+		</dict>
+		<key>398228C0-0B31-4029-99F2-60A3D7CFC9DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>398228C0-0B31-4029-99F2-60A3D7CFC9DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611115016.78862596</real>
+			<key>timeStoppedRecording</key>
+			<real>611115017.18916595</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>398228C0-0B31-4029-99F2-60A3D7CFC9DE</string>
+		</dict>
+		<key>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114476.12506104</real>
+			<key>timeStoppedRecording</key>
+			<real>611114478.73706996</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C</string>
+		</dict>
+		<key>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114065.20337796</real>
+			<key>timeStoppedRecording</key>
+			<real>611114065.59993196</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8</string>
+		</dict>
+		<key>C736D42C-EBDB-49C6-B2C2-A57889AB678A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C736D42C-EBDB-49C6-B2C2-A57889AB678A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611115008.11827195</real>
+			<key>timeStoppedRecording</key>
+			<real>611115009.55399096</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>C736D42C-EBDB-49C6-B2C2-A57889AB678A</string>
+		</dict>
+		<key>DDED0B36-0B3B-46BA-81A5-40A7885C64B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDED0B36-0B3B-46BA-81A5-40A7885C64B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113863.27509999</real>
+			<key>timeStoppedRecording</key>
+			<real>611113863.341434</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>DDED0B36-0B3B-46BA-81A5-40A7885C64B5</string>
+		</dict>
+		<key>E5985800-97BD-4857-9716-14292917412A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5985800-97BD-4857-9716-14292917412A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114529.55560398</real>
+			<key>timeStoppedRecording</key>
+			<real>611114529.96853602</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>E5985800-97BD-4857-9716-14292917412A</string>
+		</dict>
+		<key>E78E36F8-AC31-4267-BFA0-31872438A69D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E78E36F8-AC31-4267-BFA0-31872438A69D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113855.01654196</real>
+			<key>timeStoppedRecording</key>
+			<real>611113857.59849298</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>E78E36F8-AC31-4267-BFA0-31872438A69D</string>
+		</dict>
+		<key>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113943.02329397</real>
+			<key>timeStoppedRecording</key>
+			<real>611113943.66912997</real>
+			<key>title</key>
+			<string>Build lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

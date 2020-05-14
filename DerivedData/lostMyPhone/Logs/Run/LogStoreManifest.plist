@@ -5,6 +5,279 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1C6F892D-2C63-4BA6-A835-658EB3FCF798</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1C6F892D-2C63-4BA6-A835-658EB3FCF798.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114478.74003196</real>
+			<key>timeStoppedRecording</key>
+			<real>611114493.92788196</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>1C6F892D-2C63-4BA6-A835-658EB3FCF798</string>
+		</dict>
+		<key>461547EE-60DA-465B-904E-47978E39597C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>461547EE-60DA-465B-904E-47978E39597C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113977.018327</real>
+			<key>timeStoppedRecording</key>
+			<real>611113989.80763197</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>461547EE-60DA-465B-904E-47978E39597C</string>
+		</dict>
+		<key>7F7036F6-C39C-4BEA-B7B0-508FAFD915BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7F7036F6-C39C-4BEA-B7B0-508FAFD915BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113943.67234397</real>
+			<key>timeStoppedRecording</key>
+			<real>611113961.51248205</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>7F7036F6-C39C-4BEA-B7B0-508FAFD915BC</string>
+		</dict>
+		<key>93D5C51C-8EEE-4FEB-ABF2-EE95EC60EC1A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>93D5C51C-8EEE-4FEB-ABF2-EE95EC60EC1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114065.60257101</real>
+			<key>timeStoppedRecording</key>
+			<real>611114078.57549</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>93D5C51C-8EEE-4FEB-ABF2-EE95EC60EC1A</string>
+		</dict>
+		<key>B6FF7EE6-45C9-4EAE-8720-04CF8489B186</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B6FF7EE6-45C9-4EAE-8720-04CF8489B186.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611115018.28358603</real>
+			<key>timeStoppedRecording</key>
+			<real>611115036.60986102</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>B6FF7EE6-45C9-4EAE-8720-04CF8489B186</string>
+		</dict>
+		<key>CF248A16-C93D-4BAA-AC2D-5E76795D66A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF248A16-C93D-4BAA-AC2D-5E76795D66A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114335.42634404</real>
+			<key>timeStoppedRecording</key>
+			<real>611114365.23428595</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>CF248A16-C93D-4BAA-AC2D-5E76795D66A9</string>
+		</dict>
+		<key>DA2D2A0C-F24B-492D-B8AC-31390A45E725</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA2D2A0C-F24B-492D-B8AC-31390A45E725.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611114529.97139502</real>
+			<key>timeStoppedRecording</key>
+			<real>611114585.72080803</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>DA2D2A0C-F24B-492D-B8AC-31390A45E725</string>
+		</dict>
+		<key>F4236A42-A97C-4832-9317-239E1C355244</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4236A42-A97C-4832-9317-239E1C355244.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lostMyPhone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lostMyPhone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lostMyPhone</string>
+			<key>timeStartedRecording</key>
+			<real>611113863.35408604</real>
+			<key>timeStoppedRecording</key>
+			<real>611113884.11953604</real>
+			<key>title</key>
+			<string>Run lostMyPhone</string>
+			<key>uniqueIdentifier</key>
+			<string>F4236A42-A97C-4832-9317-239E1C355244</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
