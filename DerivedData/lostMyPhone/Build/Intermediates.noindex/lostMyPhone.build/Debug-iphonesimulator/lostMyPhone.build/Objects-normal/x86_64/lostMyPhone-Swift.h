@@ -217,6 +217,31 @@ SWIFT_CLASS("_TtC11lostMyPhone11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UITextField;
+@class UITextView;
+@class UITouch;
+@class UIEvent;
+@class NSBundle;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC11lostMyPhone18FormViewController")
+@interface FormViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified phoneNum;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified email;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified yourName;
+@property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified textInput;
+- (void)viewDidLoad;
+- (IBAction)submit:(id _Nonnull)sender;
+- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface FormViewController (SWIFT_EXTENSION(lostMyPhone)) <UITextFieldDelegate>
+- (BOOL)textFieldShouldReturn:(UITextField * _Nonnull)textField SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class UIWindow;
 @class UIScene;
 
@@ -233,8 +258,6 @@ SWIFT_CLASS("_TtC11lostMyPhone13SceneDelegate")
 @end
 
 @class UIButton;
-@class NSBundle;
-@class NSCoder;
 
 SWIFT_CLASS("_TtC11lostMyPhone14ViewController")
 @interface ViewController : UIViewController

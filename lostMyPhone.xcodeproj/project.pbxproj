@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10632978246CE0B90093DE1B /* FinderInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10632977246CE0B90093DE1B /* FinderInfo.swift */; };
+		108ADCA0246FB50F0085E813 /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108ADC9F246FB50F0085E813 /* FormViewController.swift */; };
 		10EB3D48246947B800873052 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB3D47246947B800873052 /* AppDelegate.swift */; };
 		10EB3D4A246947B800873052 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB3D49246947B800873052 /* SceneDelegate.swift */; };
 		10EB3D4C246947B800873052 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB3D4B246947B800873052 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		10632977246CE0B90093DE1B /* FinderInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinderInfo.swift; sourceTree = "<group>"; };
+		108ADC9F246FB50F0085E813 /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
 		10EB3D44246947B800873052 /* lostMyPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lostMyPhone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10EB3D47246947B800873052 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10EB3D49246947B800873052 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,7 @@
 		10632974246CDF520093DE1B /* models */ = {
 			isa = PBXGroup;
 			children = (
+				10632977246CE0B90093DE1B /* FinderInfo.swift */,
 			);
 			path = models;
 			sourceTree = "<group>";
@@ -48,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				10EB3D4B246947B800873052 /* ViewController.swift */,
+				108ADC9F246FB50F0085E813 /* FormViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -79,9 +85,9 @@
 		10EB3D46246947B800873052 /* lostMyPhone */ = {
 			isa = PBXGroup;
 			children = (
+				10632974246CDF520093DE1B /* models */,
 				10632976246CDF670093DE1B /* views */,
 				10632975246CDF5F0093DE1B /* controllers */,
-				10632974246CDF520093DE1B /* models */,
 				10EB3D47246947B800873052 /* AppDelegate.swift */,
 				10EB3D49246947B800873052 /* SceneDelegate.swift */,
 				10EB3D50246947B900873052 /* Assets.xcassets */,
@@ -165,6 +171,8 @@
 				10EB3D4C246947B800873052 /* ViewController.swift in Sources */,
 				10EB3D48246947B800873052 /* AppDelegate.swift in Sources */,
 				10EB3D4A246947B800873052 /* SceneDelegate.swift in Sources */,
+				108ADCA0246FB50F0085E813 /* FormViewController.swift in Sources */,
+				10632978246CE0B90093DE1B /* FinderInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

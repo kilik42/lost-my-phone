@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>09B83A1D-37CD-49CF-89D3-EECC5524E85C</key>
+		<key>56026F9F-76A6-461C-9F64-9AF08472FE7F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>09B83A1D-37CD-49CF-89D3-EECC5524E85C.xcactivitylog</string>
+			<string>56026F9F-76A6-461C-9F64-9AF08472FE7F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611115018.25121999</real>
+			<real>611448892.79347503</real>
 			<key>timeStoppedRecording</key>
-			<real>611115018.28022301</real>
+			<real>611448892.82124197</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>09B83A1D-37CD-49CF-89D3-EECC5524E85C</string>
+			<string>56026F9F-76A6-461C-9F64-9AF08472FE7F</string>
 		</dict>
-		<key>19FCE32D-FA94-45A7-BC3F-AA4954161529</key>
+		<key>563195E1-C991-441B-87F7-B42476617BCC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>19FCE32D-FA94-45A7-BC3F-AA4954161529.xcactivitylog</string>
+			<string>563195E1-C991-441B-87F7-B42476617BCC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611113976.606318</real>
+			<real>611465054.12814105</real>
 			<key>timeStoppedRecording</key>
-			<real>611113977.01560795</real>
+			<real>611465054.51859999</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>19FCE32D-FA94-45A7-BC3F-AA4954161529</string>
+			<string>563195E1-C991-441B-87F7-B42476617BCC</string>
 		</dict>
-		<key>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2</key>
+		<key>7DB96028-C3AF-4C35-911F-14D464CDEF9E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2.xcactivitylog</string>
+			<string>7DB96028-C3AF-4C35-911F-14D464CDEF9E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611114334.78588796</real>
+			<real>611464639.29917705</real>
 			<key>timeStoppedRecording</key>
-			<real>611114335.42339599</real>
+			<real>611464639.69036901</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>332F885C-AAFF-41CA-A9C9-0AD2F1049BE2</string>
+			<string>7DB96028-C3AF-4C35-911F-14D464CDEF9E</string>
 		</dict>
-		<key>398228C0-0B31-4029-99F2-60A3D7CFC9DE</key>
+		<key>7EE5D876-4742-4653-9DB0-01B8B08C179A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>398228C0-0B31-4029-99F2-60A3D7CFC9DE.xcactivitylog</string>
+			<string>7EE5D876-4742-4653-9DB0-01B8B08C179A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611115016.78862596</real>
+			<real>611464545.75146902</real>
 			<key>timeStoppedRecording</key>
-			<real>611115017.18916595</real>
+			<real>611464546.14175701</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>398228C0-0B31-4029-99F2-60A3D7CFC9DE</string>
+			<string>7EE5D876-4742-4653-9DB0-01B8B08C179A</string>
 		</dict>
-		<key>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C</key>
+		<key>8A1E6D8B-A2A9-4152-A65C-37A3F589E190</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C.xcactivitylog</string>
+			<string>8A1E6D8B-A2A9-4152-A65C-37A3F589E190.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611114476.12506104</real>
+			<real>611464968.29910302</real>
 			<key>timeStoppedRecording</key>
-			<real>611114478.73706996</real>
+			<real>611464968.69999897</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>A80CC2F5-BFFB-4EAC-BF4B-58373F22923C</string>
+			<string>8A1E6D8B-A2A9-4152-A65C-37A3F589E190</string>
 		</dict>
-		<key>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8</key>
+		<key>8FDEA4A1-30E8-44ED-B712-2C2D79A34A7F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8.xcactivitylog</string>
+			<string>8FDEA4A1-30E8-44ED-B712-2C2D79A34A7F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611114065.20337796</real>
+			<real>611464918.24420094</real>
 			<key>timeStoppedRecording</key>
-			<real>611114065.59993196</real>
+			<real>611464920.90281904</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>C6DCCEA5-C572-485F-BCE5-20B7BA6AB1B8</string>
+			<string>8FDEA4A1-30E8-44ED-B712-2C2D79A34A7F</string>
 		</dict>
-		<key>C736D42C-EBDB-49C6-B2C2-A57889AB678A</key>
+		<key>91F01516-3309-4F32-8698-CAA881AF4837</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C736D42C-EBDB-49C6-B2C2-A57889AB678A.xcactivitylog</string>
+			<string>91F01516-3309-4F32-8698-CAA881AF4837.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611115008.11827195</real>
+			<real>611468156.60620201</real>
 			<key>timeStoppedRecording</key>
-			<real>611115009.55399096</real>
+			<real>611468160.04935396</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>C736D42C-EBDB-49C6-B2C2-A57889AB678A</string>
+			<string>91F01516-3309-4F32-8698-CAA881AF4837</string>
 		</dict>
-		<key>DDED0B36-0B3B-46BA-81A5-40A7885C64B5</key>
+		<key>B9FB6FB5-BA00-4922-9262-C4D7CB07FBCA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DDED0B36-0B3B-46BA-81A5-40A7885C64B5.xcactivitylog</string>
+			<string>B9FB6FB5-BA00-4922-9262-C4D7CB07FBCA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611113863.27509999</real>
+			<real>611464507.01068795</real>
 			<key>timeStoppedRecording</key>
-			<real>611113863.341434</real>
+			<real>611464507.40310502</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>DDED0B36-0B3B-46BA-81A5-40A7885C64B5</string>
+			<string>B9FB6FB5-BA00-4922-9262-C4D7CB07FBCA</string>
 		</dict>
-		<key>E5985800-97BD-4857-9716-14292917412A</key>
+		<key>E4B66066-9EF0-476F-9BC6-46A392071642</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E5985800-97BD-4857-9716-14292917412A.xcactivitylog</string>
+			<string>E4B66066-9EF0-476F-9BC6-46A392071642.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611114529.55560398</real>
+			<real>611464712.82078898</real>
 			<key>timeStoppedRecording</key>
-			<real>611114529.96853602</real>
+			<real>611464713.210024</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>E5985800-97BD-4857-9716-14292917412A</string>
+			<string>E4B66066-9EF0-476F-9BC6-46A392071642</string>
 		</dict>
-		<key>E78E36F8-AC31-4267-BFA0-31872438A69D</key>
+		<key>EC8E648C-A8F0-44FF-A39D-BDB6342C5984</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E78E36F8-AC31-4267-BFA0-31872438A69D.xcactivitylog</string>
+			<string>EC8E648C-A8F0-44FF-A39D-BDB6342C5984.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,47 +338,13 @@
 			<key>signature</key>
 			<string>Build lostMyPhone</string>
 			<key>timeStartedRecording</key>
-			<real>611113855.01654196</real>
+			<real>611464406.75122404</real>
 			<key>timeStoppedRecording</key>
-			<real>611113857.59849298</real>
+			<real>611464408.86874998</real>
 			<key>title</key>
 			<string>Build lostMyPhone</string>
 			<key>uniqueIdentifier</key>
-			<string>E78E36F8-AC31-4267-BFA0-31872438A69D</string>
-		</dict>
-		<key>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>lostMyPhone project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>lostMyPhone</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build lostMyPhone</string>
-			<key>timeStartedRecording</key>
-			<real>611113943.02329397</real>
-			<key>timeStoppedRecording</key>
-			<real>611113943.66912997</real>
-			<key>title</key>
-			<string>Build lostMyPhone</string>
-			<key>uniqueIdentifier</key>
-			<string>EC6600C9-06E2-42EB-B9B5-C0EE9A8DEEC5</string>
+			<string>EC8E648C-A8F0-44FF-A39D-BDB6342C5984</string>
 		</dict>
 	</dict>
 </dict>
